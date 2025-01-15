@@ -1,0 +1,1 @@
+This reposity is used to record the process of my graduation project, includes all the source codes, weekly reports, docs, and any other things related to the project.
