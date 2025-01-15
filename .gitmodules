@@ -1,0 +1,3 @@
+[submodule "learn_rust"]
+	path = learn_rust
+	url = https://github.com/duanjr/learn_rust.git
