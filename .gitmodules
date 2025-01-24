@@ -4,3 +4,6 @@
 [submodule "littlefs-rust"]
 	path = littlefs-rust
 	url = git@github.com:duanjr/littlefs-rust.git
+[submodule "records"]
+	path = records
+	url = git@github.com:duanjr/GraduationProjectRecords.git
